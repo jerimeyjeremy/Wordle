@@ -31,9 +31,9 @@ The following **additional** features are implemented:
 
 ## Video Walkthrough
 
-Here's a walkthrough of implemented user stories:
+Here's a walkthrough of implemented user stories: 
 
-<img src='https://github.com/jerimeyjeremy/Wordle#:~:text=12%20minutes%20ago-,wordle.gif,-Add%20files%20via' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='wordle.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with ...  
